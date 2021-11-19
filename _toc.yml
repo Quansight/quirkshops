@@ -1,0 +1,5 @@
+format: jb-book
+root: readme
+chapters:
+- file: community-is-a-skill/readme.md
+  # sections: []
