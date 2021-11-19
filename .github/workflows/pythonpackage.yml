@@ -20,8 +20,8 @@ jobs:
           python -m pip install --upgrade pip nox
       - name: Build the docs
         run: |
-          touch _build/html/.nojekyll
           nox -s "docs(html)"
+          touch _build/html/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.6
         with:
