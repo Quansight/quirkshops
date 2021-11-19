@@ -1,0 +1,3 @@
+# community is a skill
+
+Quansight is a community of talented and caring people working to improve open source collaborations and literacies. Code is just a substrate for many of us that identify with open software communities. In this quirkshop we'll hear from community members of popular scientific computing projects like numpy, scikit-learn, spyder, jupyter, and pytorch. They'll share their motivation and goals with their software communities alongside specific programs that run to encouragement community growth.
