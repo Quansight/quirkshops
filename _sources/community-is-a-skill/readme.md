@@ -4,26 +4,32 @@ Quansight is a community of talented and caring people working to improve open s
 
 During this quirkshop we want to explore the heart of open source, the community. We will have four guests and a host telling us how do they contribute to their communities.
 
-**time:**
-**date:**
-**dry-run:**
-**host:** Stephannie
-**notetaker:** (tony contact)
-**moderator:**  (tony contact)
-**av:** tonyfast (jitsi)
-**youtuber:** TODO - tony make youtube link
-**guests:**
+## details
+
+* time: 9am PST
+* date: December 16, 2021
+* dry-run: TBD
+* host: Stephannie
+* notetaker: TBD
+* moderator:  TBD
+* av: tonyfast (jitsi)
+* youtube: TBD
+
+## guests
+
+
 - [ ] numpy - Melissa
 - [x] jupyter - Isabela
 - [x] spyder - Stephannie
+<!--
 - [ ] scikit-learn - Thomas
 - [ ] matplotlib - Hannah (external)
-
-## Technical set up dry-run
-* jitsi - check settings, quality, etc.
+-->
 
 ## Agenda
-* pre-meeting [:45-:00]
+<!-- 
+* pre-meeting [:45-:00] 
+-->
 * host and guest introduction [:00-:05]
 * Stephannie - community talk about Spyder [:05-:12]
 * 2 lightning talks [:12-:25]
@@ -31,7 +37,9 @@ During this quirkshop we want to explore the heart of open source, the community
     * Melissa - NumPy
 * discussion - prompts tbd [:25-:35]
 * 2 lightning talks [:35-:47]
+<!-- 
     * Thomas - Scikit-learn
-    * Hannah - Matplotlib
+    * Hannah - Matplotlib 
+-->
 * discussion - prompts tbd [:47-:56]
 * au revoir [:56-:60]
