@@ -21,8 +21,9 @@ During this quirkshop we want to explore the heart of open source, the community
 - [ ] numpy - Melissa
 - [x] jupyter - Isabela
 - [x] spyder - Stephannie
+- [x] scikit-learn - Thomas
+
 <!--
-- [ ] scikit-learn - Thomas
 - [ ] matplotlib - Hannah (external)
 -->
 
@@ -37,8 +38,8 @@ During this quirkshop we want to explore the heart of open source, the community
     * Melissa - NumPy
 * discussion - prompts tbd [:25-:35]
 * 2 lightning talks [:35-:47]
-<!-- 
     * Thomas - Scikit-learn
+<!-- 
     * Hannah - Matplotlib 
 -->
 * discussion - prompts tbd [:47-:56]
