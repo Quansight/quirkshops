@@ -27,10 +27,8 @@ During this quirkshop we want to explore the heart of open source, the community
 - [x] jupyter - Isabela
 - [x] spyder - Stephannie
 - [x] scikit-learn - Thomas
+- [x] pytorch - Mario
 
-<!--
-- [ ] pytorch - Mario
--->
 
 ## Agenda
 <!-- 
@@ -44,8 +42,6 @@ During this quirkshop we want to explore the heart of open source, the community
 * discussion - prompts tbd [:25-:35]
 * 2 lightning talks [:35-:47]
     * Thomas - Scikit-learn
-<!-- 
     * Mario - Pytorch 
--->
 * discussion - prompts tbd [:47-:56]
 * au revoir [:56-:60]
